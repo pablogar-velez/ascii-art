@@ -31,9 +31,6 @@ opencv/build/
 *.tmp
 *.temp
 
-# Output text files (ASCII art saved files)
-*.txt
-
 # Other system files
 Thumbs.db
 .DS_Store
