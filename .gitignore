@@ -1,0 +1,39 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled executable files
+*.exe
+*.out
+*.app
+
+# Debug files
+*.log
+*.pdb
+
+# Visual Studio files (if used)
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build folders
+build/
+bin/
+Debug/
+Release/
+
+# OpenCV generated files (if any)
+opencv/build/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Output text files (ASCII art saved files)
+*.txt
+
+# Other system files
+Thumbs.db
+.DS_Store

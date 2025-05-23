@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1747985516 source:c:\users\pmarm\documents\portfolio\ascii-art\ascii-art\main.cpp
+	<opencv2/core.hpp>
+	<opencv2/imgcodecs.hpp>
+	<opencv2/imgproc.hpp>
+	<windows.h>
+	<commdlg.h>
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+
